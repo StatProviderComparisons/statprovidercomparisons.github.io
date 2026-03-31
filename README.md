@@ -42,6 +42,6 @@ The mailing list should offer a room for information exchange as well as a discu
 - job offers
 - In addition, we would like to encourage using the list to start discussions on methodological issues or simply ask for advice on issues you have met in your daily work.
 
-We should emphasize that the list should be open to all people interested in methodological aspects of provider comparisons - not only to statisticians. It should be also open for a wide range of methodological issues related to data collection, data cleaning, data aggregation, statistical analysis, reporting, dissemination and (public) discussion of results - as long as they are related to provider comparisons or related issues such as outcome-volume relationships. If you are interested in joining the list, please follow the instructions below.
+We should emphasize that the list should be open to all people interested in methodological aspects of provider comparisons - not only to statisticians. It should be also open for a wide range of methodological issues related to data collection, data cleaning, data aggregation, statistical analysis, reporting, dissemination and (public) discussion of results - as long as they are related to provider comparisons or related issues such as outcome-volume relationships. If you are interested in joining the list, please follow the instructions above.
 
 
