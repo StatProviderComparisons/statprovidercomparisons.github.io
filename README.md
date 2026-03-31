@@ -11,7 +11,7 @@ Currently, no seminars are scheduled. If you'd like to present, join the mailing
 
 #### Past dates
 
-| Date     | Speaker | Title   | Links
+| Date     | Speaker | Title   | Link
 | -------- | ------- | ------- |  ------- | 
 | 22.05.2025 | Els Goetghebeur<br /><sup>(Ghent University, Belgium) </sup>   | On the evaluation of Quality of Life (QoL) and other Patient Reported Outcome Measures as quality of care  indicator in care centers |  |
 | 28.11.2024 | Martin Rößler <br /><sup>(BARMER Institute for Health Care System Research, Berlin, Germany) </sup>   | Multilevel Quality Indicators (MQI) | [Publication](http://dx.doi.org/10.1097/MLR.0000000000001938) |
