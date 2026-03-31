@@ -15,11 +15,11 @@ Currently, no seminars are scheduled. If you'd like to present, join the mailing
 
 | Date     | Speaker | Title   | Link
 | -------- | ------- | ------- |  ------- | 
-| 22.05.2025 | Els Goetghebeur<br /><sup>(Ghent University, Belgium) </sup>   | On the evaluation of Quality of Life (QoL) and other Patient Reported Outcome Measures as quality of care  indicator in care centers |  |
+| 22.05.2025 | Els Goetghebeur<br /><sup>(Ghent University, Belgium) </sup>   | On the evaluation of Quality of Life (QoL) and other Patient Reported Outcome Measures as quality of care  indicator in care centers |  [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractGoetghebeur.html) |
 | 28.11.2024 | Martin Rößler <br /><sup>(BARMER Institute for Health Care System Research, Berlin, Germany) </sup>   | Multilevel Quality Indicators (MQI) | [Publication](http://dx.doi.org/10.1097/MLR.0000000000001938) |
-| 13.06.2024 | Christian Brand<br /><sup>(SwissRDL - Medical Registries and Data Linkage, University of Bern, Switzerland) </sup>   | Comparing implants, hospitals and surgeons: lessons learned from the Swiss National Hip & Knee Joint Registry SIRIS |  |
+| 13.06.2024 | Christian Brand<br /><sup>(SwissRDL - Medical Registries and Data Linkage, University of Bern, Switzerland) </sup>   | Comparing implants, hospitals and surgeons: lessons learned from the Swiss National Hip & Knee Joint Registry SIRIS | [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractBrandt.html) |
 | 22.02.2024 | Werner Vach<br /><sup>(Basel Academy for Quality and Research, Switzerland)</sup>  | Healthcare provider profiling: fixing observation period or fixing sample size? | [Publication](https://bmjopenquality.bmj.com/content/11/2/e001588) |
-| 10.10.2023 | Hana Šinkovec<br /><sup>(Medical University of Vienna, Austria; University of Ljubljana, Slovenia)</sup> | Development of procedural health care quality indicators based on claims data |  |
+| 10.10.2023 | Hana Šinkovec<br /><sup>(Medical University of Vienna, Austria; University of Ljubljana, Slovenia)</sup> | Development of procedural health care quality indicators based on claims data | [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractSinkovec.html) |
 
 ### Mailing list
 
