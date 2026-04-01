@@ -1,17 +1,17 @@
 An online seminar series and mailing list for researchers and practitioners working on methodological aspects of provider comparisons.
 
-### Organizers
+## Organizers
 - Georg Heinze (Medical University of Vienna, Austria)
 - Johannes Rauh (Institute for Quality Assurance and Transparency in Healthcare, Germany)
 - Werner Vach (Basel Academy for Quality and Research, Switzerland)
 
-### Online seminar series
+## Online seminar series
 
-#### Upcoming dates
+### Upcoming dates
 
 Currently, no seminars are scheduled. If you'd like to present, join the mailing list for contacting us.
 
-#### Past dates
+### Past dates
 
 | Date     | Speaker | Title   | Link
 | -------- | ------- | ------- |  ------- | 
@@ -21,7 +21,7 @@ Currently, no seminars are scheduled. If you'd like to present, join the mailing
 | 22.02.2024 | Werner Vach<br /><sup>(Basel Academy for Quality and Research, Switzerland)</sup>  | Healthcare provider profiling: fixing observation period or fixing sample size? | [Publication](https://bmjopenquality.bmj.com/content/11/2/e001588) |
 | 10.10.2023 | Hana Šinkovec<br /><sup>(Medical University of Vienna, Austria; University of Ljubljana, Slovenia)</sup> | Development of procedural health care quality indicators based on claims data | [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractSinkovec.html) |
 
-### Mailing list
+## Mailing list
 
 To join the group:
 
