@@ -1,4 +1,4 @@
-An online seminar series and mailing list for researchers and practitioners working on methodological aspects of provider comparisons
+An online seminar series and mailing list for researchers and practitioners working on methodological aspects of provider comparisons.
 
 ### Organizers
 - Georg Heinze (Medical University of Vienna, Austria)
