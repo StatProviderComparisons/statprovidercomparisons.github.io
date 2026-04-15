@@ -9,9 +9,9 @@ An online seminar series and mailing list for researchers and practitioners work
 
 ### Upcoming dates
 
-| Date and Time  | Speaker | Title  | Abstract
+| Date and Time  | Speaker | Title  | Materials
 | -------- | ------- | ------- | ------- | 
-| 18.06.2026<br>16:00 CEST | Herbert Susmann<br /><sup>(NYU Grossman School of Medicine, USA) </sup> | Doubly robust nonparametric efficient estimation for healthcare provider evaluation| tbd | 
+| 18.06.2026<br>16:00 CEST | Herbert Susmann<br /><sup>(NYU Grossman School of Medicine, USA) </sup> | Doubly robust nonparametric efficient estimation for healthcare provider evaluation| [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractSusmann.html) <br> [Publication](https://doi.org/10.1093/jrsssa/qnaf145) <br> [R package](https://github.com/herbps10/TargetedRisk)| 
 
 If you'd like to attend the talk or suggest a speaker, you can join the [mailing list](#mailing-list)!
 
