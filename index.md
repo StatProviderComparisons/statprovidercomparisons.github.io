@@ -11,7 +11,7 @@ An online seminar series and mailing list for researchers and practitioners work
 
 | Date and Time  | Speaker | Title  | Materials
 | -------- | ------- | ------- | ------- | 
-| 18.06.2026<br>16:00 CEST | Herbert Susmann<br /><sup>(NYU Grossman School of Medicine, USA) </sup> | Doubly robust nonparametric efficient estimation for healthcare provider evaluation| [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractSusmann.html) <br> [Publication](https://doi.org/10.1093/jrsssa/qnaf145) <br> [R package](https://github.com/herbps10/TargetedRisk)| 
+|  |  |  |  | 
 
 If you'd like to attend the talk or suggest a speaker, you can join the [mailing list](#mailing-list)!
 
@@ -19,6 +19,7 @@ If you'd like to attend the talk or suggest a speaker, you can join the [mailing
 
 | Date     | Speaker | Title   | Materials
 | -------- | ------- | ------- |  ------- | 
+| 18.06.2026 | Herbert Susmann<br /><sup>(NYU Grossman School of Medicine, USA) </sup> | Doubly robust nonparametric efficient estimation for healthcare provider evaluation| [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractSusmann.html) <br> [Publication](https://doi.org/10.1093/jrsssa/qnaf145) <br> [R package](https://github.com/herbps10/TargetedRisk)| 
 | 22.05.2025 | Els Goetghebeur<br /><sup>(Ghent University, Belgium) </sup>   | On the evaluation of Quality of Life (QoL) and other Patient Reported Outcome Measures as quality of care indicator in care centers |  [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractGoetghebeur.html) |
 | 28.11.2024 | Martin Rößler <br /><sup>(BARMER Institute for Health Care System Research, Berlin, Germany) </sup>   | Multilevel Quality Indicators (MQI) | [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractRoessler.html) [Publication](http://dx.doi.org/10.1097/MLR.0000000000001938) |
 | 13.06.2024 | Christian Brand<br /><sup>(SwissRDL - Medical Registries and Data Linkage, University of Bern, Switzerland) </sup>   | Comparing implants, hospitals and surgeons: lessons learned from the Swiss National Hip & Knee Joint Registry SIRIS | [Abstract](https://statprovidercomparisons.github.io/abstracts/AbstractBrand.html) |
